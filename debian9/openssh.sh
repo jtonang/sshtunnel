@@ -9,8 +9,8 @@ MYIP2="s/xxxxxxxxx/$MYIP/g";
 
 # detail nama perusahaan
 country=ID
-state=Semarang
-locality=JawaTengah
+state=JTonang
+locality=Kilang
 organization=PujaerSSH
 organizationalunit=PujaerSSH
 commonname=SSH PREMIUM
