@@ -11,10 +11,10 @@ MYIP2="s/xxxxxxxxx/$MYIP/g";
 country=ID
 state=Semarang
 locality=JawaTengah
-organization=hidessh
-organizationalunit=HideSSH
-commonname=hidessh.com
-email=admin@hidessh.com
+organization=PujaerSSH
+organizationalunit=PujaerSSH
+commonname=SSH PREMIUM
+email=fjrjtn1@Gmail.coM
 
 # go to root
 cd
